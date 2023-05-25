@@ -1,1 +1,2 @@
-# examen_2
+# Segundo examen de programacion
+# Mario Gutierrez Ayala
